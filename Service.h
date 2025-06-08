@@ -4,6 +4,6 @@
 
 class Service {
 public:
-    virtual Weather getWeather(const string& s) = 0;
+    virtual Weather getWeather(const  string& s) = 0;
     virtual ~Service() = default;
 };

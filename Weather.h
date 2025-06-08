@@ -2,7 +2,7 @@
 #include"includ.h"
 class Weather {
 public:
-    string city; 
+    string city;
     double lon;
     double lat;
     double temperature;

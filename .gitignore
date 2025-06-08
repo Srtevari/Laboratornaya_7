@@ -4,4 +4,4 @@ weather.json
 pugiconfig.hpp
 pugixml.cpp
 pugixml.hpp
-nlohman/
+nlohmann/

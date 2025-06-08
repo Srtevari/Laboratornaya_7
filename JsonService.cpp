@@ -1,10 +1,9 @@
 #include "JsonService.h"
 #include <fstream>
 #include <exception>
-#include "Weather.h"
 #include "nlohmann/json.hpp"
 using nlohmann::json;
-Weather JsonService::getWeather(const string s)
+Weather JsonService::getWeather(const string& s)
 {
     ifstream fin(s);
     if (!fin)
