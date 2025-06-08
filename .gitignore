@@ -1,0 +1,7 @@
+x64/
+weather.xml
+weather.json
+pugiconfig.hpp
+pugixml.cpp
+pugixml.hpp
+nlohman/
