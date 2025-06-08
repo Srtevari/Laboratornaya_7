@@ -4,4 +4,6 @@
 #include<iostream>
 #include<fstream>
 #include<string>
+using json = nlohmann::json;
+using namespace std;
 
